@@ -7,7 +7,7 @@ about:
   head: ba30a64
   archived: false
   latestVersion: v0.2.1
-  collectedAt: 2026-09-04T20:00:04Z
+  collectedAt: 2026-09-04T20:42:21Z
 timeline:
   created: 2024-12-13
   lastCommit: 2026-05-12
@@ -81,5 +81,28 @@ total:
   openIssue: 1
   commit: 66
 ---
+path: /home/runner/.x-repo/github.com/magodo/pipeform
+collectedAt: 2026-09-04T20:42:22Z
+loc:
+  Go:
+    code: 2683
+    comments: 110
+    blanks: 387
+    files: 34
+  Hcl:
+    code: 26
+    comments: 0
+    blanks: 5
+    files: 1
+  Markdown:
+    code: 0
+    comments: 65
+    blanks: 39
+    files: 1
+total:
+  code: 2710
+  comments: 175
+  blanks: 431
+  files: 36
 ---
 
