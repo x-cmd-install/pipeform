@@ -12,6 +12,16 @@ Terraform runtime TUI 🫧
 x install pipeform
 ```
 
+## Code insight
+
+Total: **2,709** lines of code across **36** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 2,683 | 110 | 387 | 34 |
+| Hcl | 26 | 0 | 5 | 1 |
+| Markdown | 0 | 65 | 39 | 1 |
+
 ## Source
 
 - **Upstream**: <https://github.com/magodo/pipeform>
@@ -22,6 +32,25 @@ x install pipeform
 - **Latest**: `v0.2.1` (2025-01-29)
 - **Last commit**: 2026-05-12
 - **Assets in release**: 16
+
+## Popularity
+
+- **Stars**: 355 · **Forks**: 13 · **Open issues**: 8 · **Contributors**: 2
+
+## Totals (cumulative)
+
+- **Releases**: 3 · **Merged PRs**: 6 · **Open PRs**: 0 · **Closed issues**: 7 · **Open issues**: 1 · **Commits**: 66
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 0 | 0 | 0 | 1 | 0 | 1 |
+| 360d | 2025-09-15 | 0 | 0 | 0 | 1 | 0 | 1 |
+| last720d | 2024-09-20 | 3 | 6 | 0 | 7 | 1 | 66 |
 
 ## Release assets
 
@@ -44,31 +73,13 @@ x install pipeform
 | [pipeform_0.2.1_windows_arm.zip](https://github.com/magodo/pipeform/releases/download/v0.2.1/pipeform_0.2.1_windows_arm.zip) | 2.3 MiB | `native/win/x64` |
 | [pipeform_0.2.1_windows_arm64.zip](https://github.com/magodo/pipeform/releases/download/v0.2.1/pipeform_0.2.1_windows_arm64.zip) | 2.2 MiB | `native/win/arm64` |
 
-## Popularity
+## Distribution status
 
-- **Stars**: 355 · **Forks**: 13 · **Open issues**: 8 · **Contributors**: 2
+Reported by **3** distros on [repology.org](https://repology.org/project/pipeform). **3** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
 
-## Totals (cumulative)
-
-- **Releases**: 3 · **Merged PRs**: 6 · **Open PRs**: 0 · **Closed issues**: 7 · **Open issues**: 1 · **Commits**: 66
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-15 | 0 | 0 | 0 | 1 | 0 | 1 |
-
-## Code size
-
-Total: **2,709** lines of code across **36** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Go | 2,683 | 110 | 387 | 34 |
-| Hcl | 26 | 0 | 5 | 1 |
-| Markdown | 0 | 65 | 39 | 1 |
+| Distro | Version | Status |
+|--------|---------|--------|
+| Nix unstable | `0.2.1` | ✅ latest |
 
 ## Improve this data
 
@@ -79,4 +90,4 @@ Install metadata for pipeform lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:04:54Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:27:43Z._
