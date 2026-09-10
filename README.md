@@ -22,7 +22,27 @@ x install pipeform
 - **Latest**: `v0.2.1` (2025-01-29)
 - **Last commit**: 2026-05-12
 - **Assets in release**: 16
-- **Published**: 2025-01-29T06:20:42Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [pipeform_0.2.1_darwin_amd64.zip](https://github.com/magodo/pipeform/releases/download/v0.2.1/pipeform_0.2.1_darwin_amd64.zip) | 2.3 MiB | `native/darwin/x64` |
+| [pipeform_0.2.1_darwin_arm64.zip](https://github.com/magodo/pipeform/releases/download/v0.2.1/pipeform_0.2.1_darwin_arm64.zip) | 2.2 MiB | `native/darwin/arm64` |
+| [pipeform_0.2.1_freebsd_386.zip](https://github.com/magodo/pipeform/releases/download/v0.2.1/pipeform_0.2.1_freebsd_386.zip) | 2.1 MiB | `other` |
+| [pipeform_0.2.1_freebsd_amd64.zip](https://github.com/magodo/pipeform/releases/download/v0.2.1/pipeform_0.2.1_freebsd_amd64.zip) | 2.3 MiB | `other` |
+| [pipeform_0.2.1_freebsd_arm.zip](https://github.com/magodo/pipeform/releases/download/v0.2.1/pipeform_0.2.1_freebsd_arm.zip) | 2.1 MiB | `other` |
+| [pipeform_0.2.1_freebsd_arm64.zip](https://github.com/magodo/pipeform/releases/download/v0.2.1/pipeform_0.2.1_freebsd_arm64.zip) | 2.1 MiB | `other` |
+| [pipeform_0.2.1_linux_386.zip](https://github.com/magodo/pipeform/releases/download/v0.2.1/pipeform_0.2.1_linux_386.zip) | 2.2 MiB | `other` |
+| [pipeform_0.2.1_linux_amd64.zip](https://github.com/magodo/pipeform/releases/download/v0.2.1/pipeform_0.2.1_linux_amd64.zip) | 2.3 MiB | `native/linux/x64` |
+| [pipeform_0.2.1_linux_arm.zip](https://github.com/magodo/pipeform/releases/download/v0.2.1/pipeform_0.2.1_linux_arm.zip) | 2.1 MiB | `native/linux/arm` |
+| [pipeform_0.2.1_linux_arm64.zip](https://github.com/magodo/pipeform/releases/download/v0.2.1/pipeform_0.2.1_linux_arm64.zip) | 2.1 MiB | `native/linux/arm64` |
+| [pipeform_0.2.1_SHA256SUMS](https://github.com/magodo/pipeform/releases/download/v0.2.1/pipeform_0.2.1_SHA256SUMS) | 1.3 KiB | `other` |
+| [pipeform_0.2.1_SHA256SUMS.sig](https://github.com/magodo/pipeform/releases/download/v0.2.1/pipeform_0.2.1_SHA256SUMS.sig) | 310 B | `other` |
+| [pipeform_0.2.1_windows_386.zip](https://github.com/magodo/pipeform/releases/download/v0.2.1/pipeform_0.2.1_windows_386.zip) | 2.3 MiB | `native/win/x64` |
+| [pipeform_0.2.1_windows_amd64.zip](https://github.com/magodo/pipeform/releases/download/v0.2.1/pipeform_0.2.1_windows_amd64.zip) | 2.4 MiB | `native/win/x64` |
+| [pipeform_0.2.1_windows_arm.zip](https://github.com/magodo/pipeform/releases/download/v0.2.1/pipeform_0.2.1_windows_arm.zip) | 2.3 MiB | `native/win/x64` |
+| [pipeform_0.2.1_windows_arm64.zip](https://github.com/magodo/pipeform/releases/download/v0.2.1/pipeform_0.2.1_windows_arm64.zip) | 2.2 MiB | `native/win/arm64` |
 
 ## Popularity
 
@@ -55,8 +75,8 @@ Total: **2,709** lines of code across **36** files in the top 5 languages.
 Install metadata for pipeform lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `pipeform` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/pipeform.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/pipeform.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:06:40Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:04:54Z._
