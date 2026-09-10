@@ -1,0 +1,35 @@
+- repo: aur
+  srcname: pipeform
+  binname: pipeform
+  visiblename: pipeform
+  version: 0.2.1
+  origversion: 0.2.1-1
+  status: newest
+  summary: Terraform runtime terminal user interface
+  maintainers:
+    - kemelzaidan@aur
+  licenses:
+    - MPL-2.0
+- repo: freebsd
+  srcname: sysutils/pipeform
+  binname: pipeform
+  visiblename: sysutils/pipeform
+  version: 0.2.1
+  origversion: 0.2.1_17
+  status: newest
+  summary: TUI for Terraform runtime progress
+  maintainers:
+    - olgeni@freebsd.org
+  categories:
+    - sysutils
+- repo: nix_unstable
+  srcname: pipeform
+  visiblename: pipeform
+  version: 0.2.1
+  origversion: null
+  status: newest
+  summary: TUI for Terraform runtime progress
+  maintainers:
+    - jl@lafuente.me
+  licenses:
+    - MPL-2.0
