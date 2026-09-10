@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 2392989,
       "digest": null,
-      "download_count": 457,
+      "download_count": 459,
       "created_at": "2025-01-29T06:17:41Z",
       "updated_at": "2025-01-29T06:17:41Z",
       "browser_download_url": "https://github.com/magodo/pipeform/releases/download/v0.2.1/pipeform_0.2.1_linux_amd64.zip"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 1364,
       "digest": null,
-      "download_count": 34,
+      "download_count": 35,
       "created_at": "2025-01-29T06:17:41Z",
       "updated_at": "2025-01-29T06:17:41Z",
       "browser_download_url": "https://github.com/magodo/pipeform/releases/download/v0.2.1/pipeform_0.2.1_SHA256SUMS"
