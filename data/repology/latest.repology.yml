@@ -15,7 +15,7 @@
   binname: pipeform
   visiblename: sysutils/pipeform
   version: 0.2.1
-  origversion: 0.2.1_19
+  origversion: 0.2.1_20
   status: newest
   summary: TUI for Terraform runtime progress
   maintainers:
